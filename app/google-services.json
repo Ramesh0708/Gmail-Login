@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708721334283",
+    "firebase_url": "https://fir-f7c97.firebaseio.com",
+    "project_id": "fir-f7c97",
+    "storage_bucket": "fir-f7c97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708721334283:android:ff755e2a4d066aec46cf0e",
+        "android_client_info": {
+          "package_name": "com.example.gmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708721334283-4p7hbjh5f2lkcft52q7d5hi4r7ivppn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW97s7iRMSNrUMQp92UPFql1ViqZUz0w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708721334283-4p7hbjh5f2lkcft52q7d5hi4r7ivppn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
